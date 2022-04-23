@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  background-color: #FF9900;
+  padding-top: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  border: 1px solid black;
+  margin: 20px;
+}
+.header {
+  background-color: #783F04;
+}
+.error{
+  color: #D8000C;
+	background-color: #FFBABA;
+  margin-top: 2px;
+  border-radius: 5px;
+  padding: 2px;
+}
+.img-pirate{
+  width: 150px;
+  height: 150px;
+}
+.img-pirate-detail{
+  width: 250px;
+  height: 250px;
+}
+.pirate-detail-content{
+  width: 50%;
+}
+.div-pirate-detail{
+  width: 50%;
+}
+
+
